@@ -1,29 +1,35 @@
-![Md Rakib Hossain — I build apps. I tell stories.](banner.png)
+![HELLO WORLD — Welcome to my profile](banner.png)
 
-<p align="center">
-  <a href="https://www.facebook.com/itsrakiblxp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://wa.me/+8801920363264"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://github.com/mdrakibhossainkst/nexa-tg-drive"><img src="https://img.shields.io/badge/Nexa_TG_Drive-0EA5E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Nexa TG Drive" /></a>
-</p>
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-<p align="center">
-  <b>Bangladesh</b> · <b>বাংলা</b> · <b>English</b><br />
-  <i>আমি বাংলায় ভাবি, ইংরেজিতে বানাই।</i>
-</p>
+### 👋 I'M RAKIB!
 
-```ts
-const rakib = {
-  from: "Bangladesh",
-  speaks: ["বাংলা", "English"],
-  does: "Builds apps. Tells stories. Fixes what breaks.",
-  currently: "Nexa TG Drive",
-  rule: "No ads. No paywall. Every feature free.",
-};
-```
+*Software Developer (Desktop Apps / Storyteller)*
+
+I am a developer from Bangladesh building desktop software that feels fast, clean and premium — with a huge love for Tauri, React, Rust and TypeScript.
+
+- ✨ I'm currently building **Nexa TG Drive** — your Telegram account, as a personal cloud drive
+- 🌱 Student of life :) — I believe that every day is a learning opportunity
+- 🆓 **No ads. No paywall.** Every feature free, for everyone
+- 🎬 I make **Bangla story videos** — short stories, told simply, in my own voice
+- 💬 Talk to me on **WhatsApp** — I reply faster there
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=mdrakibhossainkst&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS)
+
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img src="mascot.png" width="280" alt="Nexa cloud mascot with a paper plane" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Now building
+## 🚀 Featured project
 
 <table>
   <tr>
@@ -36,12 +42,6 @@ const rakib = {
       <h3><a href="https://github.com/mdrakibhossainkst/nexa-tg-drive">Nexa TG Drive</a></h3>
       <p><i>Your Telegram account, as a personal cloud drive.</i></p>
       <p>Saved Messages is home. Channels are folders. Upload, download, preview and stream — on Windows, macOS and Android.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri 2" />
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
-        <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
       <p><a href="https://github.com/mdrakibhossainkst/nexa-tg-drive"><b>See the project →</b></a></p>
     </td>
   </tr>
@@ -55,14 +55,6 @@ const rakib = {
 | :---: | :---: | :---: |
 | **🎯 One thing, properly** | **🆓 Free means free** | **🔧 If it breaks, I fix it** |
 | I don't ship ten half-finished ideas. I pick one product and keep polishing it until it feels right. | No ads, no paywall, no locked features. If it's in the app, it's for everyone. | Tell me what went wrong — what you clicked, what it said — and I'll get to it. |
-
----
-
-## 🎬 Beyond code
-
-I also make **Bangla story videos** — short stories, told simply, in my own voice.
-
-Code is one way I tell a story. Video is the other.
 
 ---
 
@@ -89,8 +81,8 @@ Code is one way I tell a story. Video is the other.
 ---
 
 <p align="center">
-  <a href="https://www.facebook.com/itsrakiblxp"><b>Facebook</b></a> · <a href="https://wa.me/+8801920363264"><b>WhatsApp</b></a><br />
-  <i>Have an idea, a bug, or just want to say hi? I reply faster on WhatsApp.</i>
+  <a href="https://www.facebook.com/itsrakiblxp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://wa.me/+8801920363264"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-<p align="center"><i>— Rakib</i></p>
+<p align="center"><i>— Rakib · আমি বাংলায় ভাবি, ইংরেজিতে বানাই।</i></p>
