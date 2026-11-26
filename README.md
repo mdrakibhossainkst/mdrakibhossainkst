@@ -24,7 +24,7 @@ I am a developer from Bangladesh building desktop software that feels fast, clea
 
 <table>
 <tr>
-<td width="130" align="center"><a href="https://github.com/mdrakibhossainkst/nexa-tg-drive"><img src="https://raw.githubusercontent.com/mdrakibhossainkst/nexa-tg-drive/main/Nexa-TG-Drive.png" width="110" alt="Nexa TG Drive logo" /></a></td>
+<td width="130" align="center"><a href="https://github.com/mdrakibhossainkst/nexa-tg-drive"><img src="https://raw.githubusercontent.com/mdrakibhossainkst/nexa-tg-drive/main/assets/readme/nexa-icon.svg" width="110" alt="Nexa TG Drive logo" /></a></td>
 <td><h3><a href="https://github.com/mdrakibhossainkst/nexa-tg-drive">Nexa TG Drive</a></h3><p><i>Your Telegram account, as a personal cloud drive.</i></p><p>Saved Messages is home. Channels are folders. Upload, download, preview and stream — on Windows, macOS and Android.</p><p><a href="https://github.com/mdrakibhossainkst/nexa-tg-drive"><b>See the project →</b></a></p></td>
 </tr>
 </table>
